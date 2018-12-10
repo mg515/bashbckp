@@ -2,6 +2,7 @@
 alias agi='sudo apt-get install'
 alias ll='ls -lthr'
 alias cd..='cd ..'
+alias cd....='cd ../..'
 
 # gpu-specific
 alias cuda8='sudo rm /usr/local/cuda; sudo ln -s /usr/local/cuda-8.0 /usr/local/cuda;'
